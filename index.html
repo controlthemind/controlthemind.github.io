@@ -1,0 +1,12 @@
+---
+layout: default
+title: Control The Mind
+---
+	<h1>{{ page.title }}</h1>
+	<p>Almost all of culture is meant to enable us to control the primitive portion of our brain.</p>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
