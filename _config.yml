@@ -1,11 +1,11 @@
 # Site settings
-title: The Central Dogma
+title: Control the mind
 email: 
-description: "Learnings on AI + Drug Design."
+description: "Culture is meant to control the mind."
 baseurl: ""
-url: "http://thecentraldogma.github.io"
-twitter_username: thecentraldogma
-github_username:  thecentraldogma
+url: "http://controlthemind.github.io"
+twitter_username: controlthemind
+github_username:  controlthemind
 
 # Build settings
 markdown: kramdown
