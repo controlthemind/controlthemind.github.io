@@ -22,3 +22,5 @@ This ritual of forgiveness is sometimes called the rite of universal friendship.
 >My friendship is with all living beings,
 >My enmity is totally non-existent.
 >Let there be peace, harmony, and prosperity for all.
+
+In 2024, this day will fall on or around Sept 7, 2024, the last day of the Jain Pratyushan festival. 
