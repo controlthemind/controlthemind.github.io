@@ -1,11 +1,11 @@
 # Site settings
-title: Control the mind
+title: Still the mind
 email: 
-description: "Culture is meant to control the mind."
+description: "The purpose of culture is to help us still our mind."
 baseurl: ""
 url: "http://controlthemind.github.io"
-twitter_username: controlthemind
-github_username:  controlthemind
+twitter_username: stillthemind
+github_username:  stillthemind
 
 # Build settings
 markdown: kramdown

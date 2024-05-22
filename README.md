@@ -1,2 +1,2 @@
 # controlthemind.github.io
-Almost all culture passed down generates is meant to help us control our mind.
+Almost all culture passed down generations is meant to help us still our mind.
