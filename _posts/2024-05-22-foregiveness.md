@@ -14,3 +14,11 @@ Quoting from Wikipedia:
 > On this sacred day, every member of the Jain community approaches everyone, irrespective of religion, and begs for forgiveness for all their faults or mistakes, committed either knowingly or unknowingly. Thus relieved of the heavy burden hanging over their head of the sins of yesteryears, they start life afresh, living in peaceful co-existence with others. 
 
 > Mahavira said we should forgive our own soul first. To forgive others is a practical application of this supreme forgiveness. It is the path of spiritual purification. Mahavira said: "The one whom you hurt or kill is you. All souls are equal and similar and have the same nature and qualities". Ahimsa Paramo Dharma. Anger begets more anger and forgiveness and love beget more forgiveness and love. Forgiveness benefits both the forgiver and the forgiven.
+
+This ritual of forgiveness is sometimes called the rite of universal friendship. Most Jain centers in the U.S. now conduct at least part of the ritual of forgiveness in English for the benefit of the youth. The St. Louis and San Diego Jain communities, for instance, have published English-language Pratikraman booklets. The spirit of the day is contained in this verse, recited by heart:
+
+>I grant forgiveness to all living beings,
+>May all living beings grant me forgiveness;
+>My friendship is with all living beings,
+>My enmity is totally non-existent.
+>Let there be peace, harmony, and prosperity for all.
