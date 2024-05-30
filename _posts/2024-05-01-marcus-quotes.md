@@ -1,12 +1,9 @@
-
 ---
 layout: post
-title: "Macrus' quotes on his Birthday"
+title: "Macrus Aurelius quotes on his Birthday"
 date: 2024-05-01
 mathjax: true
 ---
-
-
 
 It was the birthday of Marcus Aurelius recently, and so, it is fitting that we celebrate by examining some of his prominent quotes: 
 
